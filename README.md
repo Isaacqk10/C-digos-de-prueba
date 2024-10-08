@@ -8,6 +8,7 @@ Este repositorio alojaré algunos de los proyectos que realizo
         #CB: Cuantía básica
         #IA: Incremento anual
         #EXC: Excedente de semanas cotizadas.
+
 SC = float(input("Ingresa el total de tus semanas cotizadas:\n"))
 AGE = int(input("Ingresa tu edad actual:\n"))
 SBC = float(input("Ingresa el salario promedio al mes de tus últimos 5 años laborados y registrados en el IMSS:\n" ))
